@@ -19,5 +19,5 @@ public slots:
     void load();
 
 private:
-    QMap<QString, int> m_itmes;
+    QMap<QString, int> m_items;
 };
